@@ -1,9 +1,10 @@
 ## Highly duplicated issue on claude.ai couldn't access to private repository<br>
-![](img/Issue.png) <br>
 
 * [Example 1 : Claude Code web interface doesn't see my private repos, while it sees private repos of one of my organizations.](https://github.com/anthropics/claude-code/issues/96670) <br>
 * [Example 2 : Hi there. There is an issue as with claude AI I cant find any repo](https://github.com/anthropics/claude-code/issues/98250) <br>
 * [Example 3 : I connected GitHub to claude.ai (Settings > Connectors > GitHub) so Claude could list my repositories and push code. My account has 8 private repositories and 0 public ones.](https://github.com/anthropics/claude-code/issues/98050) <br>
+
+![](img/Issue.png) <br>
 
 ### For affected organisations and individual searching for fixing guidance, the following guide will help you.<br><hr>
 ### TLDR : Use OAuth Apps<br>
