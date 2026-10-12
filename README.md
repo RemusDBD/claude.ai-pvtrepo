@@ -1,4 +1,5 @@
 ## Highly duplicated issue on claude.ai couldn't access to private repository<br>
+![](img/Issue.png) <br>
 
 * [Example 1 : Claude Code web interface doesn't see my private repos, while it sees private repos of one of my organizations.](https://github.com/anthropics/claude-code/issues/96670) <br>
 * [Example 2 : Hi there. There is an issue as with claude AI I cant find any repo](https://github.com/anthropics/claude-code/issues/98250) <br>
@@ -31,4 +32,6 @@ Back to claude.ai<br>
 
 3. Copy Client ID & client secret into Claude.ai custom connector
 4. Connect
-5. Authorize 
+5. Authorize
+
+![](img/Fix.png) <br>
