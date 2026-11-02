@@ -36,5 +36,6 @@ Back to claude.ai<br>
 5. Authorize
 
 ![](img/Fix.png) <br>
-[^1]:[Anthropic Official Reference](https://claude.com/docs/connectors/building/authentication)
-[^2]:[Github Official Reference](https://github.com/github/github-mcp-server)
+
+[^1]:[Github Official Reference](https://github.com/github/github-mcp-server)
+[^2]:[Anthropic Official Reference](https://claude.com/docs/connectors/building/authentication)
