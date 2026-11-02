@@ -13,7 +13,7 @@ Starting from claude.ai<br>
 - a. Remove the Github connectors you discover
 - b. Add custom connector
 - c. Name: Github
-- d. Remote MCP server URL: https://api.githubcopilot.com/mcp 
+- d. Remote MCP server URL[^1]: https://api.githubcopilot.com/mcp 
 - e. Hang on there
 <br>
 
@@ -22,7 +22,7 @@ Moving to github<br>
 2. GitHub → Settings → Developer settings → OAuth Apps → New OAuth App
 - a. Name: Claude
 - b. Homepage URL: https://claude.ai/
-- c. Redirect URI: https://claude.ai/api/mcp/auth_callback
+- c. Redirect URI[^2]: https://claude.ai/api/mcp/auth_callback 
 - d. Enable Device Flow: no tick by default
 - e. Click Register application
 - f. Generate a new client secret
@@ -36,3 +36,5 @@ Back to claude.ai<br>
 5. Authorize
 
 ![](img/Fix.png) <br>
+[^1]:[Anthropic Official Reference](https://claude.com/docs/connectors/building/authentication)
+[^2]:[Github Official Reference](https://github.com/github/github-mcp-server)
