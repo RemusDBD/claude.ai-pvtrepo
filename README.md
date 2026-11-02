@@ -22,7 +22,7 @@ Moving to github<br>
 2. GitHub → Settings → Developer settings → OAuth Apps → New OAuth App
 - a. Name: Claude
 - b. Homepage URL: https://claude.ai/
-- c. Redirect URI: https://claude.ai/api/mcp/
+- c. Redirect URI: https://claude.ai/api/mcp/auth_callback
 - d. Enable Device Flow: no tick by default
 - e. Click Register application
 - f. Generate a new client secret
